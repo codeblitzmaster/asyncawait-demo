@@ -4,7 +4,7 @@
       "regexp": "User [0-100]"
     },
     "avatarUrl": {
-      "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
+      "string": "https://unsplash.it/200/200"
     },
     "statusMessage": {
       "string": [
@@ -26,6 +26,7 @@
     },
     "isPublic": {
       "boolean": {}
-    }
+    },
+    "online": { "boolean": {} }
   }
 }
