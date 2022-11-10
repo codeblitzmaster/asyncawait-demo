@@ -4,7 +4,7 @@
       "regexp": "User [0-100]"
     },
     "avatarUrl": {
-      "string": "https://unsplash.it/200/200"
+      "string": ["https://unsplash.it/200/200"]
     },
     "statusMessage": {
       "string": [
