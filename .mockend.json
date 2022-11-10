@@ -1,7 +1,7 @@
 {
   "User": {
     "name": {
-      "regexp": "User [0-100]"
+      "regexp": "User ([1-9]|[1-9][0-9]|100)"
     },
     "avatarUrl": {
       "string": ["https://unsplash.it/200/200"]
